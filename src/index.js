@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+
+/*
 import Header from './Header'
 import Footer from './Footer'
 import Content from './Content'
@@ -15,12 +17,13 @@ ReactDOM.render(
     </Router>,document.getElementById('root')
 
 );
+*/
 
 
-/*
+
 ReactDOM.render(<App />,
      document.getElementById('root'));
-     */
+     
 
 
 
